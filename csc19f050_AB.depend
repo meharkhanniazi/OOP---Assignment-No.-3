@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1597600716 source:e:\smiu\semester ii\oop\assignment # 3\author.cpp
+	<iostream>
+	"Author.h"
+
+1597600716 e:\smiu\semester ii\oop\assignment # 3\author.h
+
+1597408971 source:e:\smiu\semester ii\oop\assignment # 3\book.cpp
+
+1597600716 source:e:\smiu\semester ii\oop\assignment # 3\main.cpp
+	<iostream>
+	"Book.h"
+	"Author.h"
+	"Novel.h"
+	"Textbook.h"
+
+1597600785 e:\smiu\semester ii\oop\assignment # 3\book.h
+
+1597601050 e:\smiu\semester ii\oop\assignment # 3\novel.h
+	"Book.h"
+
+1597480930 e:\smiu\semester ii\oop\assignment # 3\textbook.h
+	<iostream>
+
+1597408994 source:e:\smiu\semester ii\oop\assignment # 3\novel.cpp
+
+1597409007 source:e:\smiu\semester ii\oop\assignment # 3\textbook.cpp
+
+1597647496 source:e:\smiu\semester ii\oop\assignments\assignment # 3\author.cpp
+	<iostream>
+	"Author.h"
+
+1597739685 e:\smiu\semester ii\oop\assignments\assignment # 3\author.h
+	"Book.h"
+	"Textbook.h"
+	"Novel.h"
+
+1597647003 source:e:\smiu\semester ii\oop\assignments\assignment # 3\book.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"Book.h"
+
+1597680128 source:e:\smiu\semester ii\oop\assignments\assignment # 3\main.cpp
+	<iostream>
+	"Book.h"
+	"Author.h"
+	"Novel.h"
+	"Textbook.h"
+
+1597647221 e:\smiu\semester ii\oop\assignments\assignment # 3\book.h
+	<iostream>
+
+1597667450 e:\smiu\semester ii\oop\assignments\assignment # 3\novel.h
+	"Book.h"
+	"Author.h"
+
+1597679575 e:\smiu\semester ii\oop\assignments\assignment # 3\textbook.h
+	<iostream>
+	"Book.h"
+	"Author.h"
+
+1597680112 source:e:\smiu\semester ii\oop\assignments\assignment # 3\textbook.cpp
+	<iostream>
+	"Textbook.h"
+	"Author.h"
+
+1597680054 source:e:\smiu\semester ii\oop\assignments\assignment # 3\novel.cpp
+	<iostream>
+	"Novel.h"
+	"Author.h"
+
