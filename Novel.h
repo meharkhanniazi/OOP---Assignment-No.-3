@@ -7,7 +7,7 @@ using namespace std;
 
 class Novel : public Book
 {
-private:
+public:
     bool sequelsAvaiting;
 
 

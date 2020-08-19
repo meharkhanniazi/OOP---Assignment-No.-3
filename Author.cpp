@@ -1,5 +1,7 @@
 #include"Author.h"
+
 using namespace std;
+
 
     Author::Author(string n)
     {
@@ -34,20 +36,31 @@ using namespace std;
 
     Novel Author::publishNovel(int a,string b,int c,int d,bool e)
     {
-        Novel obj;
-        obj.isbn = a;
-        obj.title = b;
-        obj.noOfPages = c;
-        obj.authorName = name;
-        obj.editionNum = 1;
-        obj.editionYear = d;
-        obj.sequelsAvaiting = e;
-        return obj;
+        Novel obj1;
+        obj1.isbn = a;
+        obj1.title = b;
+        obj1.noOfPages = c;
+        obj1.authorName = name;
+        obj1.editionNum = 1;
+        obj1.editionYear = d;
+        obj1.sequelsAvaiting = e;
+        this->numOfBooksPub++;
+        return obj1;
     }
 
-    void Author::publishTextBook(int a,string b,int c,int d,int e)
-    {
 
+    Textbook Author::publishTextBook(int a,string b,int c,int d,int e)
+    {
+        Textbook obj2;
+        obj2.isbn = a;
+        obj2.title = b;
+        obj2.noOfPages = c;
+        obj2.authorName = name;
+        obj2.editionNum = 1;
+        obj2.editionYear = d;
+        obj2.numOfChapters = e;
+        this->numOfBooksPub++;
+        return obj2;
     }
 
     void Author::printData()

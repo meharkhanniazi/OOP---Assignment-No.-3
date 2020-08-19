@@ -4,7 +4,7 @@
 using namespace std;
 class Book
 {
-protected:
+public:
     int isbn;
     string title;
     int noOfPages;

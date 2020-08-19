@@ -1,10 +1,12 @@
-#ifndef Included_AUTHOR_H
-#define Included_AUTHOR_H
+#ifndef Author_H
+#define Author_H
+#include<iostream>
 #include"Book.h"
-#include"Textbook.h"
 #include"Novel.h"
+#include"Textbook.h"
 using namespace std;
 class Novel;
+class Textbook;
 class Author
 {
 public:
@@ -24,7 +26,7 @@ public:
 
     Novel publishNovel(int,string,int,int,bool);
 
-    void publishTextBook(int,string,int,int,int);
+    Textbook publishTextBook(int,string,int,int,int);
 
     void printData();
 };

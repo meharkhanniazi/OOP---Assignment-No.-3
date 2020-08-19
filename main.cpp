@@ -19,7 +19,7 @@ int main()
 
 
     Novel n = jk.publishNovel(353, "A Casual Vacancy", 340, 2016, false);
-/*    Textbook t = rl.publishTextBook(84678, "OOP in Java", 500, 2013, 21);*/
+    Textbook t = rl.publishTextBook(84678, "OOP in Java", 500, 2013, 21);
 
     fsf.printData();
     jk.printData();
@@ -28,7 +28,7 @@ int main()
     tb.printData();
     tgg.printData();
     n.printData();
- /*   t.printData();*/
+    t.printData();
 
     return 0;
 }

@@ -7,10 +7,11 @@ class Author;
 using namespace std;
 class Textbook:public Book
 {
-private:
+public:
     int numOfChapters;
 
 public:
+    Textbook();
     Textbook(int,string,int,Author a,int,int,int);
 
     void setNumOfChapters(int);

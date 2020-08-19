@@ -2,6 +2,10 @@
 #include"Textbook.h"
 #include"Author.h"
 using namespace std;
+    Textbook::Textbook()
+    {
+
+    }
     Textbook::Textbook(int a,string b,int c,Author d,int e,int f,int g)
     {
         this->isbn = a;
