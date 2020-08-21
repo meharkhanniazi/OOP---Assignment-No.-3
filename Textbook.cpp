@@ -6,6 +6,7 @@ using namespace std;
     {
 
     }
+
     Textbook::Textbook(int a,string b,int c,Author d,int e,int f,int g)
     {
         this->isbn = a;
@@ -43,7 +44,7 @@ using namespace std;
 
     void Textbook::printData()
     {
-        cout << "\n\n\t*********\tTextbook's Data\t*********";
+        cout << "\n\n\t*********    Textbook's Data\t*********";
         cout << "\n\tISBN:\t\t\t" << isbn;
         cout << "\n\tTitle:\t\t\t" << title;
         cout << "\n\tPages:\t\t\t" << noOfPages;

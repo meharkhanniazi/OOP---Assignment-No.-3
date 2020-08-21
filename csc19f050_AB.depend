@@ -26,11 +26,10 @@
 
 1597409007 source:e:\smiu\semester ii\oop\assignment # 3\textbook.cpp
 
-1597647496 source:e:\smiu\semester ii\oop\assignments\assignment # 3\author.cpp
-	<iostream>
+1597827543 source:e:\smiu\semester ii\oop\assignments\assignment # 3\author.cpp
 	"Author.h"
 
-1597820239 e:\smiu\semester ii\oop\assignments\assignment # 3\author.h
+1597827401 e:\smiu\semester ii\oop\assignments\assignment # 3\author.h
 	<iostream>
 	"Book.h"
 	"Novel.h"
@@ -42,21 +41,21 @@
 	<string>
 	"Book.h"
 
-1597819166 source:e:\smiu\semester ii\oop\assignments\assignment # 3\main.cpp
+1597827379 source:e:\smiu\semester ii\oop\assignments\assignment # 3\main.cpp
 	<iostream>
 	"Book.h"
 	"Author.h"
 	"Novel.h"
 	"Textbook.h"
 
-1597743990 e:\smiu\semester ii\oop\assignments\assignment # 3\book.h
+1597827988 e:\smiu\semester ii\oop\assignments\assignment # 3\book.h
 	<iostream>
 
-1597820311 e:\smiu\semester ii\oop\assignments\assignment # 3\novel.h
+1597830203 e:\smiu\semester ii\oop\assignments\assignment # 3\novel.h
 	"Book.h"
 	"Author.h"
 
-1597819711 e:\smiu\semester ii\oop\assignments\assignment # 3\textbook.h
+1597830311 e:\smiu\semester ii\oop\assignments\assignment # 3\textbook.h
 	<iostream>
 	"Book.h"
 	"Author.h"
@@ -66,7 +65,7 @@
 	"Textbook.h"
 	"Author.h"
 
-1597680054 source:e:\smiu\semester ii\oop\assignments\assignment # 3\novel.cpp
+1597830310 source:e:\smiu\semester ii\oop\assignments\assignment # 3\novel.cpp
 	<iostream>
 	"Novel.h"
 	"Author.h"

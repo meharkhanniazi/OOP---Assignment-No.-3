@@ -12,7 +12,7 @@ public:
 
 
 public:
-
+    Novel();
     Novel(int,string,int,Author a,int,int,bool);
 
     void setSequelsAvaiting(bool);
@@ -25,3 +25,4 @@ public:
 
 
 #endif
+

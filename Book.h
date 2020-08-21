@@ -29,7 +29,5 @@ public:
 
     void setEditionYear(int);
     int getEditionYear();
-
-  //  virtual void updateEdition() = 0;
 };
 #endif // Included_Book_H

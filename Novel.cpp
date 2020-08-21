@@ -2,6 +2,11 @@
 #include"Novel.h"
 #include"Author.h"
 using namespace std;
+    Novel::Novel()
+    {
+
+    }
+
 
     Novel::Novel(int a,string b,int c,Author jk,int e,int f,bool g)
     {
